@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MkOveyan.github.io/rsschool-cv/cv
