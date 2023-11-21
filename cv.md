@@ -38,3 +38,14 @@ I am eager to join a dynamic team where I can unleash my potential, learn from e
 ### Independent Study of JavaScript
 *Learn JavaScript Textbook*
 - Currently engaged in self-directed learning of JavaScript fundamentals using the "learn.javascript" textbook.
+
+## Education
+### Moscow Power Engineering Institute (National Research University)
+*Bachelor's Degree in Advertising and Public Relations*
+
+### State Budgetary Professional Educational Institution of Moscow Region
+*Serpukhov College of Information Systems*
+*Associate Degree in Information Systems*
+
+## English
+Currently self-studying English with a proficiency level of A1.
